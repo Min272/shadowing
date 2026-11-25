@@ -1,0 +1,8 @@
+{
+  "appId": "com.listenshadow.app",
+  "appName": "Listen & Shadow",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
